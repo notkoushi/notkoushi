@@ -22,7 +22,7 @@ I enjoy building web apps using **C# .NET, React, PHP, and Azure**.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 
 ---
 
@@ -34,19 +34,12 @@ I enjoy building web apps using **C# .NET, React, PHP, and Azure**.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## 🚀 Projects
-- **Evaluation System:** Admin panel with multiple evaluation types  
-- **Crops Market App:** React CRUD with API and JWT authentication  
-
 ---
 
 ## 📜 Certifications
 - **Microsoft SQL IT Specialist – Database** ✅  
 - **Agile & Scrum Training** ✅  
+
 
 ---
 
