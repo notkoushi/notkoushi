@@ -27,10 +27,10 @@ I enjoy building web apps with **C# .NET, React, and Azure**.
 ---
 
 ## 📜 Certifications
-![SQL](https://img.shields.io/badge/Microsoft_SQL_IT_Specialist-4479A1?style=for-the-badge&logo=microsoft&logoColor=white)
+- **Microsoft SQL IT Specialist – Database** ✅  
 
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-eliseocruzz07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseocruzz07@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EliseoCruz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliseocruz)
+- **Email:** [eliseocruzz07@gmail.com](mailto:eliseocruzz07@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/eliseocruz](https://linkedin.com/in/eliseocruz)
