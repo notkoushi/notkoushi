@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Eliseo! 👋
 
-<!--
-**notkoushi/notkoushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year BSIT student learning **full-stack development**. I enjoy building web apps with **C# .NET, React, and Azure**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+- **Backend:** C#, ASP.NET Core, Microsoft Identity  
+- **Database & Cloud:** SQLite, Azure Blob Storage  
+- **Tools:** Git, VS Code, Visual Studio  
+
+---
+
+## 🚀 Projects
+- **Evaluation System:** Admin panel with multiple evaluation types  
+- **Crops Market App:** React CRUD with API and JWT authentication  
+
+---
+## 📜 Certifications
+- Microsoft SQL IT specialist in Database
+
+
+---
+
+## 📫 Contact
+- **Email:** eliseocruzz07@gmail.com  
+- **LinkedIn:** [linkedin.com/in/eliseocruz](https://linkedin.com/in/eliseocruz)  
