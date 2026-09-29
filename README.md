@@ -36,9 +36,9 @@ I enjoy building web apps using **C# .NET, React, PHP, and Azure**.
 ---
 
 ## 📜 Certifications
-- **Microsoft SQL IT Specialist – Database** ✅
-- **Network Security IT Specialist** ✅ 
-- **Agile & Scrum Training** ✅  
+- **Microsoft SQL IT Specialist – Database** 
+- **Network Security IT Specialist** 
+- **Agile & Scrum Training** 
 
 
 ---
