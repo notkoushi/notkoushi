@@ -44,7 +44,3 @@ AI-assisted event matchmaking platform connecting organizers with relevant spons
 * Microsoft SQL IT Specialist – Database
 * Network Security IT Specialist
 * Agile & Scrum Training
-
-## Connect
-
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](https://linkedin.com/in/eliseocruz) · [Email](mailto:eliseocruzz07@gmail.com)
