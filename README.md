@@ -31,13 +31,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
-## Projects
-
-**[KanaSprint](YOUR_KANASPRINT_URL)**
-Japanese kana reading practice web app with timed practice and keyboard-first interaction.
-
-**AI Event Intelligence & Collaboration Platform**
-AI-assisted event matchmaking platform connecting organizers with relevant sponsors and suppliers.
 
 ## Certifications
 
